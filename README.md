@@ -14,3 +14,6 @@ ketika sudah update code dari lokal, maka kita push ke github
 - git add README.md
 - git commit -m "tambah file README.md edit"
 - git branch -M main
+
+===============================
+rubah ke commit
