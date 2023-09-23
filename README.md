@@ -8,3 +8,8 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/adhe482/belajar-github.git
 git push -u origin main
+
+ketika sudah update code dari lokal, maka kita push ke github
+
+git commit -m "tambah file README.md edit"
+git branch -M main
