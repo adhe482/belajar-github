@@ -27,4 +27,4 @@ ketika sudah update code dari lokal, maka kita push ke github
 - git push -u origin main
 
 =========================================== okeh bisa nih www
-okeh 1
+okeh 1 2
