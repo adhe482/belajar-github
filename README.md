@@ -21,10 +21,8 @@ git push -u origin main
 ketika sudah update code dari lokal, maka kita push ke github
 
 - git add README.md
-- git commit -m "tambah file README.md edit"
-- git branch -M main
-- git remote add origin https://github.com/adhe482/belajar-github.git
+- git commit -m "tambah command anda"
 - git push -u origin main
 
-=========================================== okeh bisa nih www
-okeh 1 2 3
+====================================================================
+okeh 1 2 3 mantab
