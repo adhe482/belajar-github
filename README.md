@@ -11,5 +11,6 @@ git push -u origin main
 
 ketika sudah update code dari lokal, maka kita push ke github
 
-git commit -m "tambah file README.md edit"
-git branch -M main
+- git add README.md
+- git commit -m "tambah file README.md edit"
+- git branch -M main
