@@ -17,3 +17,5 @@ ketika sudah update code dari lokal, maka kita push ke github
 
 ===============================
 rubah ke commit
+
+edit nih
